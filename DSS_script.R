@@ -1,3 +1,4 @@
+# You must install DSS and BSseq.
 CpG_wt11 = read.csv("CpG_wt_1.cov",header = T,sep = "\t",quote = "",check.names = F) 
 #CpG_wt11 <- read_tsv( ".cov", col_names = F ) 
 head( CpG_wt11 )
